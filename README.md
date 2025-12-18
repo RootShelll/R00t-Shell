@@ -1,5 +1,7 @@
 # R00t-Shell 🛡️
 
+![R00t-Shell – Secure PHP Web File Manager, Lightweight File Management Tool](https://raw.githubusercontent.com/RootShelll/R00t-Shell/refs/heads/main/image.png)
+
 R00t-Shell is a comprehensive PHP-based mini file manager designed to offer extensive administrative capabilities. It is built with security in mind, providing users with the necessary tools to manage their server files efficiently. **Please note that this tool should be used responsibly and only on systems you have explicit permission to administer. Unauthorized use is illegal.**
 
 ## Features 🌟
@@ -45,6 +47,8 @@ R00t-Shell is a comprehensive PHP-based mini file manager designed to offer exte
 5. **WordPress Features:**
    - If your directory contains a `wp-config.php`, you can retrieve WordPress information by clicking the 🌐 WordPress Info button.
    - **Create Admin Users:** Use the 👤 Create Admin option to add new administrator users for your WordPress installation.
+
+![R00t-Shell – Secure PHP Web File Manager, Lightweight File Management Tool](https://raw.githubusercontent.com/RootShelll/R00t-Shell/refs/heads/main/images-2.jpeg)
 
 ## Security Note ⚠️
 
