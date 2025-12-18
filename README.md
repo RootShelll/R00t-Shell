@@ -16,7 +16,7 @@ R00t-Shell is a comprehensive PHP-based mini file manager designed to offer exte
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/R00t-Shell.git
+   git clone https://github.com/RootShelll/R00t-Shell/R00t-Shell.git
    ```
 2. **Navigate to the Directory:**
    ```bash
